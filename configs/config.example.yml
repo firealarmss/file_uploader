@@ -1,0 +1,9 @@
+debug: false
+
+logPath: "logs/upload.log"
+projectName: "FILE_UPLOAD"
+
+bindPort: 3000
+bindAddress: 0.0.0.0
+
+passPhrase: "password"
