@@ -50,4 +50,6 @@ if (argv.config) {
 
         process.exit();
     }
+} else {
+    console.log("ERROR: No config file")
 }
