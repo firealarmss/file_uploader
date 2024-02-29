@@ -31,7 +31,7 @@ To build for linux:
 
 `npm run build:linux`
 
-Binary will be in the `bin` folder. By default, it will be named `dvmfne_manager-os type`
+Binary will be in the `bin` folder. By default, it will be named `file_upload-os type`
 
 ### Running File Uploader without compiling
 
